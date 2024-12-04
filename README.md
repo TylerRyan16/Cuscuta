@@ -74,7 +74,7 @@ Cuscuta is a biopunk rougelike dungeon-crawler, with emphasis on stealth mechani
 		+ 2 For each category: strong in stealth vs strong in carnage
 		+ Stealth:
 			+ 1 Enemy that is weak, but can detect player from a longer radius
-			+ 1 Enemy that has the longest detection radius, but short attention span
+			+ 1 Enemy that has the longest detection radius and long attention span
 		+ Carnage:
 			+ 1 Enemy that is weak, but is mobile and does high damage
 			+ 1 Enemy with a high health bar and does high damage, but is very slow
